@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/assignment-nxtwave/static/css/main.6f269c35.css",
+    "main.js": "/assignment-nxtwave/static/js/main.5ee2e3e8.js",
+    "static/js/787.b986c9a3.chunk.js": "/assignment-nxtwave/static/js/787.b986c9a3.chunk.js",
+    "static/media/background.png": "/assignment-nxtwave/static/media/background.3f1cf443a777f3b0b4ae.png",
+    "static/media/avatar.png": "/assignment-nxtwave/static/media/avatar.115cc7fef28e6df1dd08.png",
+    "index.html": "/assignment-nxtwave/index.html",
+    "main.6f269c35.css.map": "/assignment-nxtwave/static/css/main.6f269c35.css.map",
+    "main.5ee2e3e8.js.map": "/assignment-nxtwave/static/js/main.5ee2e3e8.js.map",
+    "787.b986c9a3.chunk.js.map": "/assignment-nxtwave/static/js/787.b986c9a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f269c35.css",
+    "static/js/main.5ee2e3e8.js"
+  ]
+}
