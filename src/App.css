@@ -1,0 +1,50 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #fbfafa;
+}
+
+.container {
+  width: 50%;
+  margin: 5% auto;
+}
+
+.tab-header {
+  list-style: none;
+  background: #fff;
+  width: 455px;
+  border: 1px solid #d6dee9;
+  position: relative;
+  left: 120px;
+  padding-inline-start: 0px;
+}
+.tab-header li {
+  display: inline;
+  padding: 10px 45px 11px;
+  line-height: 38px;
+  cursor: pointer;
+  width: 200px;
+  height: 43px;
+  background-color: #f3f5f6;
+}
+
+.tab-header li.active {
+  background: #0b68fe;
+  color: #ffffff;
+}
+.tab-content {
+  height: 100px;
+  background: #fff;
+  border: 1px solid #dedeed;
+  margin: 1px;
+  width: 100%;
+  position: relative;
+  font-family: "Roboto", sans-serif;
+}
+
+.tab-child {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
